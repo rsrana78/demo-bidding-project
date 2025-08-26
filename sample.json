@@ -1,1 +1,7 @@
-
+{
+  "message": "Order received",
+  "timeStamp": "2025-08-26T22:08:00Z",
+  "bid": 102,
+  "ask": 103.75,
+  "volume": 5000
+}
